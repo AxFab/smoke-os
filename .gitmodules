@@ -1,0 +1,10 @@
+[submodule "kernel"]
+	path = kernel
+	url = http://axfab@github.com/axfab/kernel
+
+[submodule "axc"]
+	path = axc
+	url = http://axfab@github.com/axfab/axc
+[submodule "system"]
+	path = system
+	url = http://axfab@github.com/axfab/system
